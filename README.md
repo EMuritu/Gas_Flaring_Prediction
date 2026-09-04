@@ -7,9 +7,9 @@ The environmental and economic consequences are staggering. Flaring represents a
 ## 2. Problem Statement
 While flaring is broadly categorized by intensity (Low, Medium, High), these qualitative labels are insufficient for precise environmental accounting, carbon tax calculations, or engineering diagnostics. Regulators, environmental agencies, and energy companies require **exact, continuous estimates** of flaring volume (in million m³) to:
 
-- Accurately calculate greenhouse gas emissions for compliance and carbon markets.
+- Accurately calculate greenhouse gas emissions for regulatory compliance and carbon market participation.
 - Identify operational inefficiencies or equipment failures that cause sudden deviations in flaring.
-- Prioritize investments in gas-capture infrastructure based on expected recovery volumes.
+- Prioritize investments in gas-capture infrastructure based on expected recovery volumes and emission reduction potential.
 
 The primary objective of this project is to develop a robust **supervised machine learning regression model** capable of predicting the precise annual flaring volume (in million m³) at individual oil and gas extraction sites.
 
