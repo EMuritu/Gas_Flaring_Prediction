@@ -14,13 +14,13 @@ While flaring is broadly categorized by intensity (Low, Medium, High), these qua
 The primary objective of this project is to develop a robust **supervised machine learning regression model** capable of predicting the precise annual flaring volume (in million m³) at individual oil and gas extraction sites.
 
 ## 3. Methodology
-Using a comprehensive dataset from the World Bank, containing field-specific attributes, including geographic location (latitude/longitude), production metrics ('bcm' and 'MMscfd'), field type (Oil/Gas/LNG), operator identity, and onshore/offshore designation, we will train and evaluate multiple regression algorithms to achieve the following:
+Using a comprehensive dataset sourced from the World Bank, containing field-specific attributes including geographic location (latitude/longitude), production metrics ('bcm' and 'MMscfd'), field type (Oil/Gas/LNG), operator identity, and onshore/offshore designation, we will train and evaluate multiple regression algorithms to achieve the following:
 
 1.  **Minimize Prediction Error**: Achieve a low Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE) to ensure predictions are reliable for real-world decision-making.
 2.  **Maximize Explained Variance**: Obtain a high R² score to confirm that the chosen features effectively capture the drivers of flaring behavior.
 3.  **Provide Actionable Insights**: Identify which features (e.g., production rate, geographic region, operator) most strongly influence flaring volume, offering stakeholders clear levers for reduction.
 
-**Target Variable**: 'flaring_vol_mm3'  
+**Target Variable**: 'flaringvolume(mm3)'  
 **Evaluation Metrics**: R² Score, RMSE, MAE
 
 ## 4. Results
