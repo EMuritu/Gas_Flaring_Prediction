@@ -23,4 +23,10 @@ Using a comprehensive dataset from the World Bank, containing field-specific att
 **Target Variable**: 'flaring_vol_mm3'  
 **Evaluation Metrics**: R² Score, RMSE, MAE
 
+## 4. Results
+
+## 5. Key Insights
+
+## 6. Recommendations
+
 
