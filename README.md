@@ -9,8 +9,7 @@ According to a report published by the International Energy Agency(2024), around
 
 The primary objective of this project is to develop a robust **supervised machine learning regression model** capable of predicting the precise annual flaring volume (in million m³) at individual oil and gas extraction sites.
 
-## 3. Methodology
-### 3.1 Exploratory Data Analysis
+## 3. Exploratory Data Analysis
 ### Univariate Analysis
 <img width="1188" height="789" alt="Categorical Variable Analysis" src="https://github.com/user-attachments/assets/6842e12a-2225-4aea-922a-79dfd71fe112" />
 
