@@ -18,6 +18,7 @@ The primary objective of this project is to develop a robust **supervised machin
 
 
 ### 3.3 Multivariate Analysis
+<img width="1102" height="819" alt="Multivariate" src="https://github.com/user-attachments/assets/186b4493-0a51-4492-88f0-c0e9d88fab46" />
 
 
 ## 4. Results
