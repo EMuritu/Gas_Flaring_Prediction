@@ -17,7 +17,7 @@ The primary objective of this project is to develop a robust **supervised machin
 <img width="624" height="494" alt="Multivariate" src="https://github.com/user-attachments/assets/f7f5715a-95da-4f32-a6b9-d97b9f67c494" />
 
 
-## 4. Results
+## 4. Model Performance & Evaluation
 
 ## 5. Key Insights
 
