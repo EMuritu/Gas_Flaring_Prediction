@@ -19,8 +19,6 @@ The primary objective of this project is to develop a robust **supervised machin
 
 ## 4. Model Performance & Evaluation
 
-## 5. Key Insights
-
-## 6. Recommendations
+## 5. Recommendations
 
 
