@@ -11,14 +11,14 @@ The primary objective of this project is to develop a robust **supervised machin
 
 ## 3. Methodology
 ### 3.1 Exploratory Data Analysis
-### 3.1.1 Univariate Analysis
+### Univariate Analysis
 <img width="1188" height="789" alt="Categorical Variable Analysis" src="https://github.com/user-attachments/assets/6842e12a-2225-4aea-922a-79dfd71fe112" />
 
-### 3.1.2 Bivariate Analysis
+### Bivariate Analysis
 <img width="1391" height="1229" alt="Categorical v Flaring Volume" src="https://github.com/user-attachments/assets/dfa5ecf0-58ba-4476-b61f-2641c1c5b13d" />
 
 
-### 3.1.3 Multivariate Analysis
+### Multivariate Analysis
 !<img width="763" height="648" alt="Multivariate" src="https://github.com/user-attachments/assets/e029a4ab-b9b0-4d1e-9c20-27df75cd14ad" />
 
 
