@@ -11,7 +11,8 @@ The primary objective of this project is to develop a robust **supervised machin
 
 ## 3. Exploratory Data Analysis
 ### 3.1 Univariate Analysis
-![Alt text](C:\Users\hp\Documents\Gas_Flaring_Prediction\Categorical Variable Analysis.png)
+![Univariate Analysis](<img width="1188" height="789" alt="Categorical Variable Analysis" src="https://github.com/user-attachments/assets/6842e12a-2225-4aea-922a-79dfd71fe112" />
+png)
 
 ### 3.2 Bivariate Analysis
 
