@@ -14,11 +14,6 @@ The primary objective of this project is to develop a robust **supervised machin
 ### Univariate Analysis
 <img width="1188" height="789" alt="Categorical Variable Analysis" src="https://github.com/user-attachments/assets/6842e12a-2225-4aea-922a-79dfd71fe112" />
 
-### Bivariate Analysis
-<img width="1231" height="1025" alt="Categorical v Flaring Volume" src="https://github.com/user-attachments/assets/87285e90-d00b-44b0-ae66-f5e864a0469e" />
-
-
-
 ### Multivariate Analysis
 <img width="624" height="494" alt="Multivariate" src="https://github.com/user-attachments/assets/f7f5715a-95da-4f32-a6b9-d97b9f67c494" />
 
