@@ -19,6 +19,7 @@ The primary objective of this project is to develop a robust **supervised machin
 ## 4. Feature Engineering
 A `Region` feature has been created by mapping each country to one of 11 flaring-meaningful regions. This compresses the geographic signal while preserving the information that matters for predicting flaring intensity. This mapping uses only the `Country` column, no target information is involved.
 ## 5. Feature Encoding
+All categorical features are encoded using a strategy that matches their cardinality and feature nature. The choice of encoder is not arbitrary, each one is an assumption about the structure of the feature.
 
 
 ## 6. Model Performance & Evaluation
