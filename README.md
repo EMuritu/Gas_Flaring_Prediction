@@ -17,8 +17,7 @@ The primary objective of this project is to develop a robust **supervised machin
 <img width="624" height="494" alt="Multivariate" src="https://github.com/user-attachments/assets/f7f5715a-95da-4f32-a6b9-d97b9f67c494" />
 
 ## 4. Feature Engineering
-A Region feature has been created by mapping all 101 countries to 11 flaring-meaningful regions. This compresses the geographic signal while preserving the information that matters for predicting flaring intensity. This mapping only uses the 'Country' column; no target information is involved. 
-
+A `Region` feature has been created by mapping each country to one of 11 flaring-meaningful regions. This compresses the geographic signal while preserving the information that matters for predicting flaring intensity. This mapping uses only the `Country` column, no target information is involved.
 ## 5. Feature Encoding
 
 
